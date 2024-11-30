@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, sans-serif;
+}
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    margin-left: 50%;
+    color: rgb(28, 94, 94);
+}
+form{
+    margin-left: 2%;
+    position: relative;
+    
+}
+input{
+    border-radius: 10%;
+    width: 25%;
+}
